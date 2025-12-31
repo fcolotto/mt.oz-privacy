@@ -11,4 +11,4 @@ y, de ser necesario, derivar a atención humana.
 No vendemos ni compartimos datos personales con terceros con fines comerciales.
 Las consultas pueden ser registradas de forma anónima para mejorar la calidad del servicio.
 
-Contacto: fcolotto@gmail.com
+Contacto: fcolotto98@gmail.com
