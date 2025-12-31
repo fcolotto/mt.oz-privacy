@@ -1,14 +1,26 @@
-# Política de Privacidad – Asistente María T Boticario / Ozone
+# Política de Privacidad
 
-Este asistente utiliza una API propia para consultar información de productos
-(nombre, precio y enlaces) en la tienda online de María T Boticario y Ozone Lifestyle.
+Última actualización: 31/12/2025
 
-El asistente no solicita ni almacena datos sensibles de los usuarios.
-Si el usuario decide compartir información personal (por ejemplo, email o número
-de pedido), dicha información será utilizada únicamente para asistir con la consulta
-y, de ser necesario, derivar a atención humana.
+Este asistente es el chatbot oficial de atención al cliente de María T Boticario y Ozone Lifestyle.
 
-No vendemos ni compartimos datos personales con terceros con fines comerciales.
-Las consultas pueden ser registradas de forma anónima para mejorar la calidad del servicio.
+## Información que se recopila
+El asistente puede procesar mensajes enviados por los usuarios con el único fin de responder consultas sobre productos, pedidos, envíos y atención al cliente.
 
-Contacto: fcolotto98@gmail.com
+No se recopila información sensible de manera intencional.
+
+## Uso de la información
+La información compartida por el usuario se utiliza únicamente para:
+- Responder consultas
+- Brindar información sobre productos y servicios
+- Derivar la conversación a atención humana cuando sea necesario
+
+## Compartición de datos
+No se venden ni comparten datos personales con terceros.
+
+## Seguridad
+Se toman medidas razonables para proteger la información procesada por el asistente.
+
+## Contacto
+Si tenés consultas sobre esta política de privacidad, podés escribir a:
+📩 **fcolotto98@gmail.com**
